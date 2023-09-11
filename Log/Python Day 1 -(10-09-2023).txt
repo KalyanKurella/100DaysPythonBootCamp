@@ -1,0 +1,7 @@
+Python 
+
+Day 1 -(10/09/2023)
+Printing, Commenting,Debugging,String Manipulation and Variables
+
+Day 2 -(11/09/2023)
+DataTypes,f-String,type Conversion, Math symbols
