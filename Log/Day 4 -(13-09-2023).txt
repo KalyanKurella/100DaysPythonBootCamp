@@ -1,0 +1,6 @@
+Randomisation
+Python Lists
+
+Notes:
+-> use "\" to ignore the previous definition of declared semantic.
+->random is module used to genarate random number
