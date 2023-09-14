@@ -1,0 +1,6 @@
+Loops 
+range
+
+Notes :
+->sum(obj) is used to find the sum of an array
+->to select a random thing from an array we use "random.choice(obj)" ---> obj refers array  
