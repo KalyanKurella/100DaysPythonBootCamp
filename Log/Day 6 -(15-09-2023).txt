@@ -1,0 +1,16 @@
+Functions
+
+Code Blocks
+
+While Loop
+
+Notes :
+
+-> def keyword is used to create a function.
+->function enables to code reusability
+-> In while loop there should be logic which will make 
+the while condition false and exit the while loop.
+Otherwise it will end in infinite loop.
+->tab contains 4 spaces
+->using spaces is recommended than tab.But using 
+tab is efficient.
