@@ -26,3 +26,7 @@ if lives > 0 :
     
 else :
     print("Game over")  
+
+
+
+#not solved
